@@ -1,0 +1,25 @@
+###  CHARTE/REGLEMENT ###
+
+#contributors: 
+#	Othman Bazoumana Fane
+#        Nacime Bouziani
+
+
+- Apres chaque demande d'un donateur nous devons envoyer un message de confirmation de la prise en charge de la demande
+
+- Nous nous engageons a envoyer des photos/videos une fois que l'emplacement de construction des puits a ete trouve
+
+- Une fois le puit terminee, nous nous engageons a envoyer des photos/videos prises pendant la construction et une fois le puit fini
+
+- Nous nous engageons a mentionner le nom du donateur dans au moins une de ces videos (de preference pendant la construction car cela enleve toute ambiguite)
+
+- Nous nous engageons egalement a envoyer avec ces photos/videos un message type informant de la realisation du puit (ville, nombre habitants, profondeur)
+
+
+# PIECES A ENVOYER AUX DONATEURS
+
+ - Message type de prise en charge: une fois l'argent recu
+ - Photos/Videos: une fois l'emplacement du puit trouve
+ 
+ - Message type de realisation du puit + Photos/videos: une fois le puit realisee
+
